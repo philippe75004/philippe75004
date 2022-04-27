@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @philippe75004 from Toronto, Canada
-- 👀 I’m interested in IT Security
-- 🌱 I’m currently learning CyberSecurity at UFT
+- 👋 Hi, I’m @philippe from Toronto, Canada
+- 👀 I’m passionated about IT and IT Security
+- 🌱 I’m currently following the CyberSecurity BootCamp at UFT
 - 💞️ I’m looking to collaborate on sharing knowledge
 
 <!---
