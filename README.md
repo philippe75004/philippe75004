@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @philippe from Toronto, Canada
+- 👋 Hi, I’m @philippe, French and Canadian
 - 👀 I’m passionated about IT and IT Security
-- 🌱 I’m currently following the CyberSecurity BootCamp at UFT
+- 🌱 I’m currently certified security+, cysa+ beta result in process ;)
 - 💞️ I’m looking to collaborate on sharing knowledge
 
 <!---
